@@ -1,4 +1,4 @@
-package com.miga.springcloud.lab5wordserver;
+package com.miga.springcloud.lab6wordserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Lab5WordServerApplicationTests {
+public class Lab6WordServerApplicationTests {
 
     @Test
     public void contextLoads() {
